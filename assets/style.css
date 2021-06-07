@@ -60,7 +60,8 @@ main {
   justify-content: flex-end;
   align-items: flex-end;
   text-align: right;
-  background-image: url(assets\images\polly-background-1631651.jpg);
+  background-image: url("./images/polly-background-1631651.jpg");
+  
 }
 
 .hero-banner div {
